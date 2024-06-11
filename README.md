@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-# I'm a student in 10th grade that loves to swim, game, and code! 
+# I'm a student in 11th grade that loves to swim and code! 
 
 I currently maintain a variety of mods for the game Space Engineers, and hope to continue improving them in the future!
-Im currently learning C# and 3ds Max as skills I can use to improve.
+Im currently learning LaTeX to help me take better notes in math and physics.
 
 <!--
 **BryceWalker08/BryceWalker08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
